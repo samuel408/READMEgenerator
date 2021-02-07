@@ -16,7 +16,7 @@ function renderLicenseLink(license) {
     return ''
   }
   else{
-    return '![Licese Link](https://opensource.org/licenses/'+ license+')'
+    return '![License Link](https://opensource.org/licenses/'+ license+')'
   }
   
 }

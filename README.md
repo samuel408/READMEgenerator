@@ -32,9 +32,6 @@ to install the app you need to create a folder on your local device  and clone t
 ## features
 this program asks questions then arranges the answers into a proffessional README
 
-## contributing 
-undefined
-
 ## tests
 you can test by just answering questions normally
  
