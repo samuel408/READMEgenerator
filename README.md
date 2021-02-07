@@ -1,4 +1,4 @@
-# README GENERATOR :![](https://img.shields.io/badge/license-MIT,none-green)
+# README GENERATOR :![](https://img.shields.io/badge/license-none-green)
 
    
 ## discription 
