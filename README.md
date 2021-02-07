@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README GENERATOR :![](https://img.shields.io/badge/license-MIT,none-green)
 
    
@@ -42,7 +41,4 @@ you can test by just answering questions normally
 ## Questions
 email:samuelsaldivar11@gmail.com
 github:https://github.com/samuel408
-=======
-# READMEgenerator
-does the boring stuff
->>>>>>> 5d2df18cb5c8843ac35334d124e47cb7a3bf9830
+
