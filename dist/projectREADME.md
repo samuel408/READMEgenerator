@@ -1,7 +1,8 @@
-# aef
+# d 
+
    
 ## discription 
-  fsg
+  d
 
 ## Table of contents 
 
@@ -15,25 +16,23 @@
 * [Tests](#tests)
 
 ## installations 
-fsg
+d
 ## usage
- sfg
+ d
 
 ## credits 
-sfg
+d
 
 ## license
-MIT
+none
 
-## badges
-sfg
 
 ## features
-sfg
+d
 
 ## contributing 
 undefined
 
 ## tests
-a
+d
 
