@@ -116,7 +116,14 @@ const promptUser = projectData => {
       message: 'Add guideline for contributing to your project.',
       when: ({ contributers }) => contributers
     }
-    ,
+    , {
+      type: 'input',
+      name: 'license',
+      message: 'Please enter license type (leave empty if none)',
+     
+      
+    },
+
       {
         type: 'input',
         name: 'testing',
@@ -163,7 +170,7 @@ const promptUser = projectData => {
   .then(projectData => {
     const page = generateReadMe(projectData);
 
-    fs.writeFile('./dist/README.md', page, err => {
+    fs.writeFile('./dist/projectREADME.md', page, err => {
       if (err) {
         console.log(err);
         return;
