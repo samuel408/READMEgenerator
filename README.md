@@ -26,7 +26,7 @@ to install the app you need to create a folder on your local device  and clone t
  Samuel Saldivar(founder)
 
 ## license
- MIT,none![Licese Link](https://opensource.org/licenses/MIT,none)
+ MIT,none![License Link](https://opensource.org/licenses/MIT,none)
 
 
 ## features
@@ -38,4 +38,7 @@ you can test by just answering questions normally
 ## Questions
 email:samuelsaldivar11@gmail.com
 github:https://github.com/samuel408
+
+## walk-through video
+ https://drive.google.com/file/d/1_uOFolt68_xxKFRbZgLWUvJSEOf_B4i3/view
 

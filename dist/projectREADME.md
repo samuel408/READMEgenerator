@@ -1,8 +1,8 @@
-# README GENERATOR :![](https://img.shields.io/badge/license-MIT,none-green)
+#  read me 
 
    
 ## discription 
-  this project allows you to fill out a proffesional read me template without having to know(or remember ) if you are leaving anything out  just answer the questions being thrown at you.
+  we love turtles here
 
 ## Table of contents 
 
@@ -18,25 +18,25 @@
 
 
 ## installations 
-to install the app you need to create a folder on your local device  and clone this repository . 
+ clone from git repository names "readme generator"
 ## usage
- to use this application open the folder in bash then install node then type "node index" this will run 'index.js' which runs the program
+  open commandline on the repository you have cloned into  then run by typing " node index'
 
 ## credits 
- Samuel Saldivar(founder)
+Samuel saldivar
 
 ## license
- MIT,none![Licese Link](https://opensource.org/licenses/MIT,none)
+ 
 
 
 ## features
-this program asks questions then arranges the answers into a proffessional README
+ this program asks for user input then arranges it into a quality readme file
 
 ## contributing 
-undefined
+do not break it plz
 
 ## tests
-you can test by just answering questions normally
+use as if you needed one
  
 ## Questions
 email:samuelsaldivar11@gmail.com
