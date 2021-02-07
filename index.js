@@ -38,6 +38,19 @@ const promptUser = projectData => {
           }
         }
       },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your reachable Email (Required)',
+        validate: emailInput => {
+          if (emailInput) {
+            return true;
+          } else {
+            console.log('Please enter an email!');
+            return false;
+          }
+        }
+      },
       
       {
         type: 'input',

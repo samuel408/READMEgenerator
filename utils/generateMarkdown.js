@@ -32,6 +32,10 @@ function renderLicenseSection(license) {
   }
   
 }
+//github username
+function githubUserName(username){
+return 'https://github.com/' + username
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -51,6 +55,8 @@ function generateMarkdown(data) {
 * [Features](#features)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [questions?](#questions?)
+
 
 ## installations 
 ${data.installation}
@@ -72,7 +78,10 @@ ${data.contribute}
 
 ## tests
 ${data.testing}
-
+ 
+## Questions
+email:${data.email}
+github:${githubUserName(data.github)}
 `;
 }
 
