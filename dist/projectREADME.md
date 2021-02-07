@@ -1,8 +1,8 @@
-# d 
+# s :![](https://img.shields.io/badge/license-MIT-green)
 
    
 ## discription 
-  d
+  s
 
 ## Table of contents 
 
@@ -16,19 +16,19 @@
 * [Tests](#tests)
 
 ## installations 
-d
+s
 ## usage
- d
+ s
 
 ## credits 
-d
+s
 
 ## license
-none
+ MIT![Licese Link](https://opensource.org/licenses/MIT)
 
 
 ## features
-d
+s
 
 ## contributing 
 undefined
