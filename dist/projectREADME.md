@@ -1,8 +1,8 @@
-# s :![](https://img.shields.io/badge/license-MIT-green)
+# README GENERATOR :![](https://img.shields.io/badge/license-MIT,none-green)
 
    
 ## discription 
-  s
+  this project allows you to fill out a proffesional read me template without having to know(or remember ) if you are leaving anything out  just answer the questions being thrown at you.
 
 ## Table of contents 
 
@@ -18,26 +18,26 @@
 
 
 ## installations 
-s
+to install the app you need to create a folder on your local device  and clone this repository . 
 ## usage
- s
+ to use this application open the folder in bash then install node then type "node index" this will run 'index.js' which runs the program
 
 ## credits 
-s
+ Samuel Saldivar(founder)
 
 ## license
- MIT![Licese Link](https://opensource.org/licenses/MIT)
+ MIT,none![Licese Link](https://opensource.org/licenses/MIT,none)
 
 
 ## features
-s
+this program asks questions then arranges the answers into a proffessional README
 
 ## contributing 
 undefined
 
 ## tests
-d
+you can test by just answering questions normally
  
 ## Questions
-email:s
-github:https://github.com/s
+email:samuelsaldivar11@gmail.com
+github:https://github.com/samuel408
