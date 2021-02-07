@@ -94,14 +94,15 @@ const promptUser = projectData => {
       {
         type: 'input',
         name: 'credits',
-        message: 'Please enter any collaborators for the project (if none leave empty)',
-       
-      },
-      {
-        type: 'input',
-        name: 'badges',
-        message: 'Please enter badges, if any.',
-        
+        message: 'Please enter any collaborators for the project (if none just include yourself)',
+        validate: collabInput => {
+          if (collabInput) {
+            return true;
+          } else {
+            console.log('Please include yourself!');
+            return false;
+          }
+        }
       },
       {
         type: 'input',
@@ -154,32 +155,9 @@ const promptUser = projectData => {
       }
       
     ] );
-    //  .then(projectData => {
-    //   projectData.projects.push(projectData);
-    //   if (projectData.confirmAddProject) {
-    //     return promptProject(portfolioData);
-    //   } else   {
-    //     return portfolioData;
-    //   }
-    // });
-    
   };
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, projectData) {
-//     fs.writeFile(fileName, pageHTML, err => {
-//         if (err) {
-//           console.log(err);
-//           return;
-//         }
-//         console.log('Page created! Check out index.html in this directory to see it!');
-      
-       
-//       });
-//       generateReadMe(projectData)
-// }
 
-// Function call to initialize app
 
   promptUser()
   .then(projectData => {
@@ -196,7 +174,6 @@ const promptUser = projectData => {
     
     });
   });
-  // .then (writeToFile(file,projectData));
 
 
 
