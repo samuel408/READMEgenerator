@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-const fs  = require('fs');
+const fs = require('fs');
 const inquirer = require('inquirer');
 const generateReadMe = require('./utils/generateMarkdown.js');
 //creates file
@@ -161,7 +161,7 @@ const promptUser = projectData => {
 
   promptUser()
   .then(projectData => {
-    const page = generateReadMe(projectData);
+    const  page = generateReadMe(projectData);
 
     fs.writeFile('./dist/projectREADME.md', page, err => {
       if (err) {
@@ -172,7 +172,7 @@ const promptUser = projectData => {
       console.log('read me Page created!');
     
     
-    });
+    })
   });
 
 

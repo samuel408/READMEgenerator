@@ -1,8 +1,8 @@
-#  read me 
+# TEAM DATA :![](https://img.shields.io/badge/license-ISC-green)
 
    
 ## discription 
-  we love turtles here
+   this project allows to  create a team starting with the manager then we can choose to add engineers and/or interns  the user import is then saved in an array of objects which is used to store the HTML 
 
 ## Table of contents 
 
@@ -18,26 +18,26 @@
 
 
 ## installations 
- clone from git repository names "readme generator"
+must clone from github
 ## usage
-  open commandline on the repository you have cloned into  then run by typing " node index'
+ follow the instructions commanded by the program
 
 ## credits 
-Samuel saldivar
+samuel saldivar
 
 ## license
- 
+ ![License Link](https://opensource.org/ISC/)
 
 
 ## features
- this program asks for user input then arranges it into a quality readme file
+the program creates profiles for a certain team where we can acces emails and write them wit a click and a we can also access the engineers github with one click
 
 ## contributing 
-do not break it plz
+undefined
 
 ## tests
-use as if you needed one
+follow instructions given by program
  
 ## Questions
-email:samuelsaldivar11@gmail.com
-github:https://github.com/samuel408
+email:SAMUELSALDIVAR11@GMAIL.COM
+github:https://github.com/SAMUEL408
