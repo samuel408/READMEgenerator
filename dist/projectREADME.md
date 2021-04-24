@@ -1,8 +1,8 @@
-# TEAM DATA :![](https://img.shields.io/badge/license-ISC-green)
+# Moneyger :![](https://img.shields.io/badge/license-ISC-green)
 
    
 ## discription 
-   this project allows to  create a team starting with the manager then we can choose to add engineers and/or interns  the user import is then saved in an array of objects which is used to store the HTML 
+  moneyger is a budget app that is installable and it lets you track your spending and buying habits. you manually have to put your expenses and icomes in and there is a graph that track it
 
 ## Table of contents 
 
@@ -18,26 +18,26 @@
 
 
 ## installations 
-must clone from github
+install web dependencies on package.json file
 ## usage
- follow the instructions commanded by the program
+  add or subtract funds
 
 ## credits 
-samuel saldivar
+Samuel Saldivar
 
 ## license
- ![License Link](https://opensource.org/ISC/)
+ ISC![License Link](https://opensource.org/licenses/ISC)
 
 
 ## features
-the program creates profiles for a certain team where we can acces emails and write them wit a click and a we can also access the engineers github with one click
+add/subtract funds
 
 ## contributing 
 undefined
 
 ## tests
-follow instructions given by program
+-
  
 ## Questions
-email:SAMUELSALDIVAR11@GMAIL.COM
-github:https://github.com/SAMUEL408
+email:samuelsaldivar11@gmail.com
+github:https://github.com/samuel408

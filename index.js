@@ -134,7 +134,7 @@ const promptUser = projectData => {
       type: 'checkbox',
       name: 'license',
       message: 'Please enter license type',
-      choices: ['MIT', 'MPL-2.0', 'GPL', 'LGPL', 'CDDL-1.0', 'Apache-2.0', 'none']
+      choices: ['ISC','MIT', 'MPL-2.0', 'GPL', 'LGPL', 'CDDL-1.0', 'Apache-2.0', 'none']
 
      
       
